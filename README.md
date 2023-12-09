@@ -1,6 +1,6 @@
 # PFE-Conception-de-Drone-agricole  pour la Pulvérisation des Cultures
 
-<img src="https://drive.google.com/file/d/103OmgHqSUK6KLe4rCEZ2v6CiZOe9EGkY/view?usp=sharing" alt="Visiter le site MDN" />
+<img src="https://raw.githubusercontent.com/kokou-sekpona/PFE-Conception-de-Drone-agricole/main/drone.jpg" alt="Drone Agricole" />
 
 
 Bienvenue dans le référentiel du projet de conception d'un drone agricole dédié à la pulvérisation des cultures. Ce projet a été développé dans le cadre du projet de fin d'études, avec pour objectif la création d'un drone intelligent, autonome et efficace pour l'application ciblée de produits agricoles.
